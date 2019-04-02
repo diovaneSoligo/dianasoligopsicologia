@@ -2,6 +2,120 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d6f381d-ee34-4001-a373-3deef0566521" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/Enjine/animatedSprite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Enjine/application.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Enjine/camera.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Enjine/collideable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Enjine/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Enjine/drawable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Enjine/drawableManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Enjine/frameSprite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Enjine/gameCanvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Enjine/gameTimer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Enjine/keyboardInput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Enjine/resources.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Enjine/sprite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Enjine/spriteFont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Enjine/state.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/backgroundGenerator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/backgroundRenderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/bulletBill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/character.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/coinAnim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/enemy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/fireFlower.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/fireball.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/flowerEnemy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/improvedNoise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/level.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/levelGenerator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/levelRenderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/levelState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/loadingState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/loseState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/mapState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/midi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/mushroom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/music.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/notchSprite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/particle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/setup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/shell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/sparkle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/spriteCuts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/spriteTemplate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/titleState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/code/winState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/enjine.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bgsheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/endscene.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/enemysheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/firemariosheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/font.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/gameovergost.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/itemsheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/mapsheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/mariosheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/particlesheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/racoonmariosheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/smallmariosheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/title.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/worldmap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mario.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/midi/background.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/midi/castle.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/midi/map.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/midi/overground.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/midi/title.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/midi/underground.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/midi/urldecode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/1-up.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/1-up.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/breakblock.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/breakblock.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/bump.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/bump.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/cannon.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/cannon.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/coin.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/coin.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/death.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/death.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/exit.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/exit.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/fireball.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/fireball.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/jump.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/jump.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/kick.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/kick.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/mapmusic.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/message.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/message.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/pipe.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/pipe.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/powerdown.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/powerdown.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/powerup.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/powerup.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/smb3map1.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/smb3map1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/smb3ovr1.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/smb3undr.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/smwfortress.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/smwovr1.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/smwovr2.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/smwtitle.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/smwtitle.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/sprout.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/sprout.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/stagestart.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/stagestart.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/stomp.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sounds/stomp.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/flipTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/minTest.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/error.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/error.ejs" afterDir="false" />
     </list>
@@ -126,22 +240,24 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="2" />
-          <entry key="ejs" value="13" />
-          <entry key="js" value="9" />
+          <entry key="ejs" value="14" />
+          <entry key="html" value="1" />
+          <entry key="js" value="12" />
           <entry key="www" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="2" />
-          <entry key="EJS" value="13" />
-          <entry key="JavaScript" value="10" />
+          <entry key="EJS" value="14" />
+          <entry key="HTML" value="1" />
+          <entry key="JavaScript" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="2" />
-          <entry key="ejs" value="693" />
+          <entry key="ejs" value="744" />
           <entry key="txt" value="53" />
           <entry key="www" value="21" />
         </counts>
@@ -149,7 +265,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="2" />
-          <entry key="EJS" value="693" />
+          <entry key="EJS" value="744" />
           <entry key="JavaScript" value="21" />
           <entry key="PLAIN_TEXT" value="53" />
         </counts>
@@ -164,8 +280,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="153">
+              <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="10" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -173,8 +289,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/error.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            <state relative-caret-position="266">
+              <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
+              <folding>
+                <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/conteudo/footer.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="146" />
             </state>
           </provider>
         </entry>
@@ -210,7 +338,7 @@
         <entry file="file://$PROJECT_DIR$/public/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="239" column="35" lean-forward="true" selection-start-line="239" selection-start-column="35" selection-end-line="239" selection-end-column="35" />
+              <caret line="239" column="35" selection-start-line="239" selection-start-column="35" selection-end-line="239" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -325,7 +453,18 @@
             <path>
               <item name="dianasoligopsicologia" type="b2602c69:ProjectViewProjectNode" />
               <item name="dianasoligopsicologia" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dianasoligopsicologia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dianasoligopsicologia" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dianasoligopsicologia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dianasoligopsicologia" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="conteudo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -344,6 +483,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DioS\Documents\GitHub\dianasoligopsicologia\views" />
       <recent name="C:\Users\DioS\Documents\GitHub\dianasoligopsicologia\public" />
       <recent name="D:\node\dianasoligopsicologia\routes" />
       <recent name="D:\node\dianasoligopsicologia\views" />
@@ -413,7 +553,7 @@
       <workItem from="1547917889751" duration="1206000" />
       <workItem from="1553820743189" duration="63000" />
       <workItem from="1554078192937" duration="122000" />
-      <workItem from="1554078787667" duration="14860000" />
+      <workItem from="1554078787667" duration="16352000" />
     </task>
     <task id="LOCAL-00001" summary="pg">
       <created>1543000570531</created>
@@ -681,11 +821,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554167544603</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="# ajuste por módulos">
+      <created>1554172347962</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1554172347962</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115520000" />
+    <option name="totallyTimeSpent" value="117012000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="696" extended-state="6" />
@@ -824,11 +971,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/img/capa.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/pg/lib/connection.js" />
-    <entry file="file://$PROJECT_DIR$/routes/users.js" />
     <entry file="file://$PROJECT_DIR$/node_modules/express/lib/router/layer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
@@ -1052,13 +1194,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/wow.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3808">
@@ -1069,7 +1204,7 @@
     <entry file="file://$PROJECT_DIR$/public/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="239" column="35" lean-forward="true" selection-start-line="239" selection-start-column="35" selection-end-line="239" selection-end-column="35" />
+          <caret line="239" column="35" selection-start-line="239" selection-start-column="35" selection-end-line="239" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -1119,18 +1254,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/conteudo/footer.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding>
-            <element signature="e#672#677#0#HTML" expanded="true" />
-            <element signature="e#1415#1421#1#HTML" expanded="true" />
-            <element signature="e#1539#1545#1#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/conteudo/footerScripts.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1138,17 +1261,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/mario.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/code/midi.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="153">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/flipTest.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/conteudo/footer.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="146" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/error.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        <state relative-caret-position="266">
+          <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
