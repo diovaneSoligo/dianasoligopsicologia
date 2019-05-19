@@ -6,12 +6,8 @@
       <change afterPath="$PROJECT_DIR$/public/img/32671d6f-f401-466e-942d-58cc8caec354.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/img/92a7c83d-574b-41ec-81da-ec7674faceb6.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/img/aeb046af-9bf0-4737-8d26-a6b9d2c2eaee.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/psico_icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/conteudo/abordagem.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/conteudo/abordagem.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/conteudo/apresentacao.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/conteudo/apresentacao.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/conteudo/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/conteudo/footer.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/conteudo/quando.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/conteudo/quando.ejs" afterDir="false" />
     </list>
     <list id="7c628c97-c598-469c-b319-6b4767ce4f1a" name="não comitavel" comment="não comitavel" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -160,7 +156,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="15" />
-          <entry key="ejs" value="2704" />
+          <entry key="ejs" value="2709" />
           <entry key="txt" value="232" />
           <entry key="www" value="21" />
         </counts>
@@ -168,7 +164,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="15" />
-          <entry key="EJS" value="2704" />
+          <entry key="EJS" value="2709" />
           <entry key="JavaScript" value="21" />
           <entry key="PLAIN_TEXT" value="232" />
         </counts>
@@ -189,7 +185,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/conteudo/apresentacao.ejs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -216,11 +212,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/conteudo/footer.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            <state relative-caret-position="136">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -297,8 +293,8 @@
         <option value="$PROJECT_DIR$/views/conteudo/abordagem.ejs" />
         <option value="$PROJECT_DIR$/views/conteudo/quando.ejs" />
         <option value="$PROJECT_DIR$/views/conteudo/menu.ejs" />
-        <option value="$PROJECT_DIR$/views/conteudo/footer.ejs" />
         <option value="$PROJECT_DIR$/views/conteudo/apresentacao.ejs" />
+        <option value="$PROJECT_DIR$/views/conteudo/footer.ejs" />
       </list>
     </option>
   </component>
@@ -452,14 +448,7 @@
       <workItem from="1554654547432" duration="21918000" />
       <workItem from="1556734529940" duration="1217000" />
       <workItem from="1557444970629" duration="17291000" />
-      <workItem from="1558292398268" duration="5096000" />
-    </task>
-    <task id="LOCAL-00018" summary="rotas">
-      <created>1543346880960</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1543346880960</updated>
+      <workItem from="1558292398268" duration="5702000" />
     </task>
     <task id="LOCAL-00019" summary="imagem">
       <created>1543409674013</created>
@@ -797,24 +786,31 @@
       <option name="project" value="LOCAL" />
       <updated>1558292038294</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="#ajustes">
+      <created>1558309492379</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1558309492381</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163996000" />
+    <option name="totallyTimeSpent" value="164602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8458781" visible="true" weight="0.18229167" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8458781" visible="true" weight="0.18229167" />
       <window_info id="Structure" order="1" sideWeight="0.502008" side_tool="true" weight="0.12484157" />
       <window_info id="npm" order="2" sideWeight="0.15412186" side_tool="true" weight="0.20468947" />
       <window_info id="Favorites" order="3" sideWeight="0.502008" side_tool="true" weight="0.12484157" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49920508" weight="0.3250444" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985119" weight="0.38308457" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49702382" visible="true" weight="0.33387887" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49702382" visible="true" weight="0.33387887" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1144,17 +1140,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/conteudo/footer.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/conteudo/apresentacao.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/conteudo/footer.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
         </state>
       </provider>
     </entry>
