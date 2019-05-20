@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d6f381d-ee34-4001-a373-3deef0566521" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/img/2afedf50-9c60-422d-8853-8864b64497d1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/32671d6f-f401-466e-942d-58cc8caec354.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/92a7c83d-574b-41ec-81da-ec7674faceb6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/aeb046af-9bf0-4737-8d26-a6b9d2c2eaee.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/conteudo/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/conteudo/footer.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/conteudo/inicio.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/conteudo/inicio.ejs" afterDir="false" />
     </list>
     <list id="7c628c97-c598-469c-b319-6b4767ce4f1a" name="não comitavel" comment="não comitavel" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -135,10 +132,10 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="4" />
-          <entry key="ejs" value="31" />
+          <entry key="ejs" value="32" />
           <entry key="gif" value="1" />
           <entry key="html" value="1" />
-          <entry key="jpg" value="13" />
+          <entry key="jpg" value="23" />
           <entry key="js" value="12" />
           <entry key="png" value="4" />
           <entry key="www" value="1" />
@@ -147,16 +144,16 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="4" />
-          <entry key="EJS" value="31" />
+          <entry key="EJS" value="32" />
           <entry key="HTML" value="1" />
-          <entry key="Image" value="18" />
+          <entry key="Image" value="28" />
           <entry key="JavaScript" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="15" />
-          <entry key="ejs" value="2709" />
+          <entry key="ejs" value="2779" />
           <entry key="txt" value="232" />
           <entry key="www" value="21" />
         </counts>
@@ -164,7 +161,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="15" />
-          <entry key="EJS" value="2709" />
+          <entry key="EJS" value="2779" />
           <entry key="JavaScript" value="21" />
           <entry key="PLAIN_TEXT" value="232" />
         </counts>
@@ -176,56 +173,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/conteudo/menu.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="64" selection-start-column="64" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/conteudo/apresentacao.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/conteudo/inicio.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/conteudo/quando.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="113" column="72" selection-start-line="113" selection-start-column="72" selection-end-line="113" selection-end-column="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/views/conteudo/footer.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/conteudo/head.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+            <state relative-caret-position="51">
+              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -289,12 +244,12 @@
         <option value="$PROJECT_DIR$/views/index.ejs" />
         <option value="$PROJECT_DIR$/views/conteudo/head.ejs" />
         <option value="$PROJECT_DIR$/views/conteudo/contato.ejs" />
-        <option value="$PROJECT_DIR$/views/conteudo/inicio.ejs" />
         <option value="$PROJECT_DIR$/views/conteudo/abordagem.ejs" />
         <option value="$PROJECT_DIR$/views/conteudo/quando.ejs" />
         <option value="$PROJECT_DIR$/views/conteudo/menu.ejs" />
         <option value="$PROJECT_DIR$/views/conteudo/apresentacao.ejs" />
         <option value="$PROJECT_DIR$/views/conteudo/footer.ejs" />
+        <option value="$PROJECT_DIR$/views/conteudo/inicio.ejs" />
       </list>
     </option>
   </component>
@@ -448,21 +403,7 @@
       <workItem from="1554654547432" duration="21918000" />
       <workItem from="1556734529940" duration="1217000" />
       <workItem from="1557444970629" duration="17291000" />
-      <workItem from="1558292398268" duration="5702000" />
-    </task>
-    <task id="LOCAL-00019" summary="imagem">
-      <created>1543409674013</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1543409674013</updated>
-    </task>
-    <task id="LOCAL-00020" summary="imagem">
-      <created>1543424767155</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1543424767155</updated>
+      <workItem from="1558292398268" duration="7572000" />
     </task>
     <task id="LOCAL-00021" summary="imagem">
       <created>1544187641887</created>
@@ -793,24 +734,38 @@
       <option name="project" value="LOCAL" />
       <updated>1558309492381</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="#ajustes">
+      <created>1558310032862</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1558310032863</updated>
+    </task>
+    <task id="LOCAL-00069" summary="#ajustes">
+      <created>1558310318631</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1558310318631</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164602000" />
+    <option name="totallyTimeSpent" value="166472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8458781" visible="true" weight="0.18229167" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8458781" visible="true" weight="0.18229167" />
       <window_info id="Structure" order="1" sideWeight="0.502008" side_tool="true" weight="0.12484157" />
       <window_info id="npm" order="2" sideWeight="0.15412186" side_tool="true" weight="0.20468947" />
       <window_info id="Favorites" order="3" sideWeight="0.502008" side_tool="true" weight="0.12484157" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49920508" weight="0.3250444" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985119" weight="0.38308457" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49702382" visible="true" weight="0.33387887" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49702382" visible="true" weight="0.33387887" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1076,25 +1031,6 @@
     <entry file="file://$PROJECT_DIR$/public/img/psi.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/img/32671d6f-f401-466e-942d-58cc8caec354.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/img/92a7c83d-574b-41ec-81da-ec7674faceb6.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/img/aeb046af-9bf0-4737-8d26-a6b9d2c2eaee.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/img/2afedf50-9c60-422d-8853-8864b64497d1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/conteudo/inicio.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/conteudo/head.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
@@ -1123,6 +1059,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/psico_icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/conteudo/apresentacao.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="83" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/conteudo/menu.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret column="64" selection-start-column="64" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/conteudo/quando.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1130,27 +1083,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/img/psico_icon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/conteudo/menu.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="64" selection-start-column="64" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/conteudo/apresentacao.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/conteudo/footer.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="153">
+          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/aeb046af-9bf0-4737-8d26-a6b9d2c2eaee.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/2afedf50-9c60-422d-8853-8864b64497d1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/92a7c83d-574b-41ec-81da-ec7674faceb6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/32671d6f-f401-466e-942d-58cc8caec354.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/conteudo/inicio.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
