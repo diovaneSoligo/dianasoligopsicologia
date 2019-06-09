@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d6f381d-ee34-4001-a373-3deef0566521" name="Default Changelist" comment="">
+    <list default="true" id="4d6f381d-ee34-4001-a373-3deef0566521" name="Default Changelist" comment="#ajustes fade">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/2afedf50-9c60-422d-8853-8864b64497d1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/32671d6f-f401-466e-942d-58cc8caec354.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/32671d6f-f401-466e-942d-58cc8caec354.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/92a7c83d-574b-41ec-81da-ec7674faceb6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/aeb046af-9bf0-4737-8d26-a6b9d2c2eaee.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/psi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/psi3.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/views/conteudo/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/conteudo/footer.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/conteudo/inicio.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/conteudo/inicio.ejs" afterDir="false" />
     </list>
     <list id="7c628c97-c598-469c-b319-6b4767ce4f1a" name="não comitavel" comment="não comitavel" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -126,19 +119,23 @@
     <session id="-4679020">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.109" value="1" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.70" value="1" />
           <entry key="project.open.time.72" value="1" />
           <entry key="project.open.time.80" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="4" />
-          <entry key="ejs" value="36" />
+          <entry key="ejs" value="37" />
           <entry key="gif" value="1" />
           <entry key="html" value="1" />
           <entry key="jpg" value="30" />
@@ -150,7 +147,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="4" />
-          <entry key="EJS" value="36" />
+          <entry key="EJS" value="37" />
           <entry key="HTML" value="1" />
           <entry key="Image" value="36" />
           <entry key="JavaScript" value="13" />
@@ -159,17 +156,17 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="15" />
-          <entry key="ejs" value="3536" />
-          <entry key="txt" value="250" />
+          <entry key="ejs" value="3603" />
+          <entry key="txt" value="278" />
           <entry key="www" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="15" />
-          <entry key="EJS" value="3536" />
+          <entry key="EJS" value="3603" />
           <entry key="JavaScript" value="21" />
-          <entry key="PLAIN_TEXT" value="250" />
+          <entry key="PLAIN_TEXT" value="278" />
         </counts>
       </usages-collector>
     </session>
@@ -179,14 +176,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/conteudo/inicio.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="18" column="72" selection-start-line="18" selection-start-column="72" selection-end-line="18" selection-end-column="72" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/conteudo/quando.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1836">
+              <caret line="108" column="51" selection-start-line="108" selection-start-column="28" selection-end-line="108" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -194,20 +197,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/conteudo/head.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="30" column="59" lean-forward="true" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
+            <state relative-caret-position="510">
+              <caret line="30" column="59" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/conteudo/footer.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="131" selection-start-line="19" selection-start-column="131" selection-end-line="19" selection-end-column="131" />
-              <folding>
-                <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="209">
+              <caret line="24" column="132" selection-start-line="24" selection-start-column="132" selection-end-line="24" selection-end-column="132" />
             </state>
           </provider>
         </entry>
@@ -271,12 +271,12 @@
         <option value="$PROJECT_DIR$/views/index.ejs" />
         <option value="$PROJECT_DIR$/views/conteudo/contato.ejs" />
         <option value="$PROJECT_DIR$/views/conteudo/abordagem.ejs" />
-        <option value="$PROJECT_DIR$/views/conteudo/quando.ejs" />
         <option value="$PROJECT_DIR$/views/conteudo/menu.ejs" />
         <option value="$PROJECT_DIR$/views/conteudo/apresentacao.ejs" />
         <option value="$PROJECT_DIR$/views/conteudo/head.ejs" />
-        <option value="$PROJECT_DIR$/views/conteudo/footer.ejs" />
+        <option value="$PROJECT_DIR$/views/conteudo/quando.ejs" />
         <option value="$PROJECT_DIR$/views/conteudo/inicio.ejs" />
+        <option value="$PROJECT_DIR$/views/conteudo/footer.ejs" />
       </list>
     </option>
   </component>
@@ -310,7 +310,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -322,6 +321,12 @@
               <item name="dianasoligopsicologia" type="b2602c69:ProjectViewProjectNode" />
               <item name="dianasoligopsicologia" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dianasoligopsicologia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dianasoligopsicologia" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dianasoligopsicologia" type="b2602c69:ProjectViewProjectNode" />
@@ -344,6 +349,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -355,17 +361,17 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\DioS\Documents\GitHub\dianasoligopsicologia\views" />
-      <recent name="C:\Users\DioS\Documents\GitHub\dianasoligopsicologia\public" />
-      <recent name="D:\node\dianasoligopsicologia\routes" />
-      <recent name="D:\node\dianasoligopsicologia\views" />
-      <recent name="C:\Users\DioS\Documents\GitHub\dianasoligopsicologia\public\video" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\DioS\Documents\GitHub\dianasoligopsicologia\public\video" />
       <recent name="C:\Users\DioS\Documents\GitHub\dianasoligopsicologia\public\img" />
       <recent name="D:\node\dianasoligopsicologia\views\comum" />
+      <recent name="D:\node\dianasoligopsicologia\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DioS\Documents\GitHub\dianasoligopsicologia\public\img" />
+      <recent name="C:\Users\DioS\Documents\GitHub\dianasoligopsicologia\views" />
+      <recent name="C:\Users\DioS\Documents\GitHub\dianasoligopsicologia\public" />
+      <recent name="D:\node\dianasoligopsicologia\routes" />
       <recent name="D:\node\dianasoligopsicologia\views" />
     </key>
   </component>
@@ -431,20 +437,10 @@
       <workItem from="1556734529940" duration="1217000" />
       <workItem from="1557444970629" duration="17291000" />
       <workItem from="1558292398268" duration="13078000" />
-    </task>
-    <task id="LOCAL-00023" summary="ajustado descrição erro">
-      <created>1544190359568</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1544190359568</updated>
-    </task>
-    <task id="LOCAL-00024" summary="ajustes">
-      <created>1544191165833</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1544191165833</updated>
+      <workItem from="1558752245795" duration="2291000" />
+      <workItem from="1559500809045" duration="939000" />
+      <workItem from="1559959124353" duration="2021000" />
+      <workItem from="1560106566411" duration="641000" />
     </task>
     <task id="LOCAL-00025" summary="direcionamentos">
       <created>1544209022447</created>
@@ -775,17 +771,31 @@
       <option name="project" value="LOCAL" />
       <updated>1558312830343</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="#ajustes fade">
+      <created>1558754175289</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1558754175290</updated>
+    </task>
+    <task id="LOCAL-00073" summary="#ajustes finais">
+      <created>1559960653060</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1559960653063</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171978000" />
+    <option name="totallyTimeSpent" value="177870000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8458781" visible="true" weight="0.18229167" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8458781" visible="true" weight="0.16815476" />
       <window_info id="Structure" order="1" sideWeight="0.502008" side_tool="true" weight="0.12484157" />
       <window_info id="npm" order="2" sideWeight="0.15412186" side_tool="true" weight="0.20468947" />
       <window_info id="Favorites" order="3" sideWeight="0.502008" side_tool="true" weight="0.12484157" />
@@ -797,7 +807,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49936628" weight="0.32733223" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49936628" weight="0.2913257" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5029762" side_tool="true" weight="0.33387887" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" />
@@ -872,8 +882,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="imagem" />
-    <MESSAGE value="corrigido links footer" />
     <MESSAGE value="ajustado descrição erro" />
     <MESSAGE value="ajustes" />
     <MESSAGE value="direcionamentos" />
@@ -897,7 +905,9 @@
     <MESSAGE value="#ajustes" />
     <MESSAGE value="#inicio" />
     <MESSAGE value="#apresentação" />
-    <option name="LAST_COMMIT_MESSAGE" value="#apresentação" />
+    <MESSAGE value="#ajustes fade" />
+    <MESSAGE value="#ajustes finais" />
+    <option name="LAST_COMMIT_MESSAGE" value="#ajustes finais" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -1070,16 +1080,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/conteudo/quando.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="113" column="72" selection-start-line="113" selection-start-column="72" selection-end-line="113" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/img/92a7c83d-574b-41ec-81da-ec7674faceb6.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/92a7c83d-574b-41ec-81da-ec7674faceb6.jpg" />
     <entry file="file://$PROJECT_DIR$/views/conteudo/contato.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
@@ -1094,51 +1095,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/conteudo/head.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="30" column="59" lean-forward="true" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/conteudo/footer.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="131" selection-start-line="19" selection-start-column="131" selection-end-line="19" selection-end-column="131" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/img/2afedf50-9c60-422d-8853-8864b64497d1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/2afedf50-9c60-422d-8853-8864b64497d1.jpg" />
     <entry file="file://$PROJECT_DIR$/public/img/32671d6f-f401-466e-942d-58cc8caec354.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/img/aeb046af-9bf0-4737-8d26-a6b9d2c2eaee.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/img/psi.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/aeb046af-9bf0-4737-8d26-a6b9d2c2eaee.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/img/psi.jpg" />
     <entry file="file://$PROJECT_DIR$/public/img/psi2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/img/psi3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/psi3.jpg" />
     <entry file="file://$PROJECT_DIR$/public/img/psico_icon.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/views/conteudo/inicio.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="18" column="72" selection-start-line="18" selection-start-column="72" selection-end-line="18" selection-end-column="72" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/conteudo/quando.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="108" column="51" selection-start-line="108" selection-start-column="28" selection-end-line="108" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/conteudo/head.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="59" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/conteudo/footer.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="24" column="132" selection-start-line="24" selection-start-column="132" selection-end-line="24" selection-end-column="132" />
         </state>
       </provider>
     </entry>
